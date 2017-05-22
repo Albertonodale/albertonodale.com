@@ -1,0 +1,18 @@
+# URL Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://albertonodale.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+require:
+  - susy
+github: [metadata]
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: _sass
+  style: compressed
+  precision: 10
