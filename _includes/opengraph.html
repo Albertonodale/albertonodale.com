@@ -1,6 +1,6 @@
 <!-- Begin Facebook tags -->
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:url" content="{{ page.url | prepend: site.github.url }}" />
+<meta property="og:url" content="{{ site.url }}" />
 <meta property="og:description" content="{{ page.opengraph.description }}" />
 <meta property="og:image" content="{{ page.url | prepend: site.github.url }}images/{{ page.opengraph.thumb }}" />
 <meta property="og:type" content="website" />
@@ -8,7 +8,7 @@
 
 <!-- Begin Twitter tags -->
 <meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:url" content="{{ page.url | prepend: site.github.url }}" />
+<meta name="twitter:url" content="{{ site.url }}" />
 <meta name="twitter:card" content="{{ page.opengraph.description }}" />
 <meta name="twitter:image" content="{{ page.url | prepend: site.github.url }}images/{{ page.opengraph.thumb }}" />
 <!-- End Twitter tags -->
