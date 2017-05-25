@@ -138,6 +138,14 @@ body {
   @media (min-width: $break) {
     font-size: 1em;
   }
+  
+  a {
+    color: inherit;
+    
+    &:hover {
+      color: blue;
+    }
+  }
 }
 
 .social-icons {
@@ -149,6 +157,10 @@ body {
     display: block;
     margin-left: $space/2;
     margin-right: $space/2;
+    
+    &:hover {
+      fill: #4A4A4A;
+    }
   }
 }
 
@@ -175,6 +187,15 @@ textarea {
 input[type="submit"] {
   cursor: pointer;
   flex: 1;
+  background-color: black;
+  color: white;
+  border: 0;
+  padding-left: $space/2;
+  padding-right: $space/2;
+  
+  &:hover {
+    background-color: #4A4A4A;
+  }
   
   @media (min-width: 60em) {
     width: auto;
