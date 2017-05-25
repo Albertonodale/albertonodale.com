@@ -1,0 +1,30 @@
+    <script>
+      WebFontConfig = {
+        google: {
+          families: ['Montserrat:300,700']
+        },
+        typekit: {
+          id: 'gst5jyd'
+        }
+      };
+      
+      (function(d) {
+        var wf = d.createElement('script'), s = d.scripts[0];
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+        wf.async = true;
+        s.parentNode.insertBefore(wf, s);
+      })(document);
+    </script>
+    <script
+      src="https://file.myfontastic.com/e4ajBv3cD3emZTCVkf6vSU/icons.js" 
+      async></script>
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script>
+    <script
+      src="{{ page.url | prepend: site.github.url }}js/main.js" 
+      type="text/javascript"
+      async></script>
+  </body>
+</html>

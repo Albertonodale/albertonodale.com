@@ -1,0 +1,27 @@
+{% include head.html %}
+
+<div class="half half--fixed">
+  <div class="image image--cover" style="background-image: url({{ page.url | prepend: site.github.url }}images/{{page.image}});"></div>
+</div>
+
+<div class="half half--right half--scrollable">
+  
+  <div class="inner">
+    {% include header.html %}
+    
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+  
+  <div class="inner">
+    <div class="content">
+      {% include form.html %}
+    </div>
+  </div>
+  
+  {% include social.html %}
+  
+</div>
+
+{% include footer.html %}
