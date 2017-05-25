@@ -1,6 +1,7 @@
 ---
 template: home
 
+# Page header
 title: Alberto Nodale
 subtitle: Speaker | Sales | Coaching
 tagline: Get shit done.
@@ -8,12 +9,13 @@ tagline: Get shit done.
 # Upload images to /images/
 image: IMG_5209.jpg
 
+# Social media links
 linkedin_username:  alberto-nodale-901bba108
 instagram_username:  alberto.mindgains
 
-# Description should be ~300 characters
+# Facebook
 opengraph:
-  title: Alberto Nodale — Speaker | Sales | Coaching
+  title: Alberto Nodale
   description: After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into a rapidly growing Y-Combinator company. Now it’s time to share my knowledge to help you crush it as well!
   thumb: IMG_5209_thumb.jpg
 ---
