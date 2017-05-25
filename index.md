@@ -1,14 +1,20 @@
 ---
 template: home
+
 title: Alberto Nodale
 subtitle: Speaker | Sales | Coaching
 tagline: Get shit done.
 
+# Upload images to /images/
 image: IMG_5209.jpg
 
 linkedin_username:  alberto-nodale-901bba108
 instagram_username:  alberto.mindgains
 
+# Description should be ~300 characters
+opengraph:
+  description: After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into a rapidly growing Y-Combinator company. Now it’s time to share my knowledge to help you crush it as well!
+  thumb: IMG_5209_thumb.jpg
 ---
 
 After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into working with a rapidly growing [Y-Combinator](https://www.ycombinator.com/) company. At [Close.io](http://close.io) I now help sales people all over the world increase their sales.
