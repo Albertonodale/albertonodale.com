@@ -13,6 +13,7 @@ instagram_username:  alberto.mindgains
 
 # Description should be ~300 characters
 opengraph:
+  title: Alberto Nodale — Speaker | Sales | Coaching
   description: After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into a rapidly growing Y-Combinator company. Now it’s time to share my knowledge to help you crush it as well!
   thumb: IMG_5209_thumb.jpg
 ---
