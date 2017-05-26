@@ -4,7 +4,7 @@ template: home
 # Page header
 title: Alberto Nodale
 subtitle: Speaker | Sales | Coaching
-tagline: Get shit done.
+tagline: Get shit done!
 
 # Upload images to /images/
 image: IMG_5209.jpg
