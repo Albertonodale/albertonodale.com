@@ -30,4 +30,4 @@ By learning from the best in Silicon Valley, I’ve closed deals worth hundreds 
 
 ● Proven Inside Sales Basics that help you close more deals
 
-● From Failing to Silicon Valley: My Story
+● How to fuck up and end up in Silicon Valley
