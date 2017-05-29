@@ -3,8 +3,9 @@ template: home
 
 # Page header
 title: Alberto Nodale
-subtitle: Speaker | Sales | Coaching
-tagline: Get shit done!
+The Startup Sales Machine
+subtitle: Speaker | Sales | Startup-Coaching
+tagline: Close more fucking deals!
 
 # Upload images to /images/
 image: IMG_5209.jpg
