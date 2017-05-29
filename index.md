@@ -3,7 +3,7 @@ template: home
 
 # Page header
 title: Alberto Nodale 
-subtitle: Speaker | ** Sales Machine ** | Coaching
+subtitle: Speaker | Sales Machine | Coaching
 tagline: Close more fucking deals!
 
 # Upload images to /images/
@@ -20,7 +20,7 @@ opengraph:
   thumb: IMG_5209_thumb.jpg
 ---
 
-After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into working with a rapidly growing [Y-Combinator](https://www.ycombinator.com/) company. At [Close.io](http://close.io) I now help sales people all over the world increase their sales.
+After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into working with a rapidly growing [Y-Combinator](https://www.ycombinator.com/) company. At [Close.io](http://close.io) I now help sales people all over the world scaling their sales.
 
 By learning from the best in Silicon Valley, I’ve closed deals worth hundreds of thousands of dollars - now it’s time to share my knowledge to help you crush it as well!
 
