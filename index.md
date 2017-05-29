@@ -3,7 +3,7 @@ template: home
 
 # Page header
 title: Alberto Nodale 
-subtitle: Sales Machine | Speaker | Coaching
+subtitle:  Speaker | Sales Machine | Coaching
 tagline: Close more fucking deals!
 
 # Upload images to /images/
@@ -26,8 +26,8 @@ By learning from the best in Silicon Valley, I’ve closed deals worth hundreds 
 
 **Talks**
 
-● Sales Sins - Why you fail to close deals in business and life!
+● Deadly Sales Sins - Why you fail to close deals in business and life!
 
 ● Proven Inside Sales Basics that help you close more deals
 
-● How to fuck up and end up in Silicon Valley 💥
+● How to fuck up and end up in Silicon Valley 
