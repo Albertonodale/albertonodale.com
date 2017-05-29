@@ -3,7 +3,9 @@ template: home
 
 # Page header
 title: Alberto Nodale
-subtitle: The Startup Sales Machine Speaker | Sales | Coaching
+subtitle: The Startup Sales Machine 
+
+Speaker | Sales | Coaching
 tagline: Close more fucking deals!
 
 # Upload images to /images/
@@ -25,6 +27,7 @@ After founding my first Startup at 22 and winning multiple awards in Europe, I h
 By learning from the best in Silicon Valley, I’ve closed deals worth hundreds of thousands of dollars - now it’s time to share my knowledge to help you crush it as well!
 
 **Talks**
+
 ● Deadly Sales Sins - Why you fail to close the deal in business and life!
 
 ● Proven Inside Sales Basics that help you close more deals
