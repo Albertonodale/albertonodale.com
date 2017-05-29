@@ -3,7 +3,7 @@ template: home
 
 # Page header
 title: Alberto Nodale 
-subtitle: Speaker | Sales Machine | Coaching
+subtitle: Sales Machine | Speaker | Coaching
 tagline: Close more fucking deals!
 
 # Upload images to /images/
