@@ -7,7 +7,7 @@ title: Alberto Nodale
 # Odd numbered items will be bold
 subtitle:
   - Speaker
-  - Sales Machine
+  - Silicon Valley Sales Machine
   - Coaching
 
 # Big text under the header
@@ -41,3 +41,5 @@ By learning from the best in Silicon Valley, I’ve closed deals worth hundreds 
 - Deadly Sales Sins - Why you fail to close deals in business and life!
 - Proven Inside Sales Basics that help you close more deals
 - How to fuck up and end up in Silicon Valley
+
+Call me directly at +43 680 117 47 12 or send me a message below:
