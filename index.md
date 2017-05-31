@@ -11,7 +11,7 @@ subtitle:
   - Coaching
 
 # Big text under the header
-tagline: Close more fucking deals!
+tagline: Close more deals!
 
 # Upload images to /images/
 image: IMG_5209.jpg
