@@ -97,6 +97,21 @@ body {
   font-weight: 300;
   font-size: 1em;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  
+  > span {
+    padding-left: $space/4;
+    padding-right: $space/4;
+  }
+  
+  > span:nth-child(even) {
+    font-weight: 700;
+  }
+  
+  > span:not(:last-child) {
+    border-right: 1px solid currentColor;
+  }
 }
 
 .header__title--main {
@@ -113,7 +128,7 @@ body {
   visibility: hidden;
   
   .wf-freightbigpro-n3-active &,
-  .wf-freightbigpro-n3-failed & {
+  .wf-freightbigpro-n3-inactive & {
     visibility: visible;
   }
   
@@ -133,6 +148,10 @@ body {
   
   > :first-child {
     margin-top: 0;
+  }
+  
+  > ul {
+    padding-left: 1.25em;
   }
   
   @media (min-width: $break) {

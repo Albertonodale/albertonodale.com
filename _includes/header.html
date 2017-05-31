@@ -1,5 +1,9 @@
 <div class="header">
   <h1 class="header__title header__title--main">{{page.title}}</h1>
-  <h2 class="header__title">{{page.subtitle}}</h2>
+  <h2 class="header__title">
+    {% for subtitle in page.subtitle %}
+      <span>{{subtitle}}</span>
+    {% endfor %}
+  </h2>
   <h4 class="header__tagline">{{page.tagline}}</h4>
 </div>

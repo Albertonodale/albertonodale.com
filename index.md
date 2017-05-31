@@ -2,8 +2,15 @@
 template: home
 
 # Page header
-title: Alberto Nodale 
-subtitle:  Speaker | Sales Machine | Coaching
+title: Alberto Nodale
+
+# Odd numbered items will be bold
+subtitle:
+  - Speaker
+  - Sales Machine
+  - Coaching
+
+# Big text under the header
 tagline: Close more fucking deals!
 
 # Upload images to /images/
@@ -18,16 +25,19 @@ opengraph:
   title: Alberto Nodale - Sales Coach and Speaker
   description: After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into a rapidly growing Y-Combinator company. Now it’s time to share my knowledge to help you crush it as well!
   thumb: IMG_5209_thumb.jpg
+
+# Google (Appears in search results)
+seo:
+  title: Alberto Nodale — Sales Coach and Speaker
+  descrition: After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into a rapidly growing Y-Combinator company. Now it’s time to share my knowledge to help you crush it as well!
 ---
 
 After founding my first Startup at 22 and winning multiple awards in Europe, I hustled my way into working with a rapidly growing [Y-Combinator](https://www.ycombinator.com/) company. At [Close.io](http://close.io) I now help sales people all over the world increasing their sales.
 
 By learning from the best in Silicon Valley, I’ve closed deals worth hundreds of thousands of dollars - now it’s time to share my knowledge to help you crush it as well!
 
-**Talks**
+## Talks
 
-● Deadly Sales Sins - Why you fail to close deals in business and life!
-
-● Proven Inside Sales Basics that help you close more deals
-
-● How to fuck up and end up in Silicon Valley 
+- Deadly Sales Sins - Why you fail to close deals in business and life!
+- Proven Inside Sales Basics that help you close more deals
+- How to fuck up and end up in Silicon Valley
