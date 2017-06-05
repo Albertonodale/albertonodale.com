@@ -42,4 +42,4 @@ By learning from the best in Silicon Valley, I’ve closed deals worth hundreds 
 - Proven Inside Sales Basics that help you close more deals
 - How to fuck up and go to Silicon Valley
 
-Call me directly at +43 680 117 47 12 or send me a message below:
+Call me at +43 680 117 47 12 or send me a message below:
